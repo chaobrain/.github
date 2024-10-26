@@ -29,9 +29,11 @@ Resources related to `BrainPy`:
 
 
 
-## `brainunit`: Physical Units
 
-![brainunit](https://github.com/chaoming0625/brainunit/blob/main/docs/_static/brainunit.png)
+
+
+
+## `brainunit`: Physical Units
 
 Starting from [brainunit](https://github.com/chaoming0625/brainunit), we are going to develop a new ecosystem for brain dynamics programming.
 
@@ -47,9 +49,11 @@ Resources related to `brainunit`:
 
 
 
-## `dendritex`: Dendritic Computation
-![dendritex](https://github.com/chaoming0625/dendritex/blob/main/docs/_static/dendritex.png)
 
+
+
+
+## `dendritex`: Dendritic Computation
 [dendritex](https://github.com/chaoming0625/dendritex) is a package for dendritic computation in our BDP ecosystem. It provides a set of tools for building dendritic computation models, including the construction of dendritic trees, the definition of dendritic compartments, and the implementation of various ions and channels in a neuron.
 
 [dendritex](https://github.com/chaoming0625/dendritex) is designed to be highly parallel for dendritic modeling. The computation for compartments and neurons are all parallelized in the single device, thus providing the extraordinary performance.
@@ -60,9 +64,11 @@ Resources related to `dendritex`:
 
 
 
-## `brainstate`: JIT Compilation
-![brainstate](https://github.com/chaoming0625/brainstate/blob/main/docs/_static/brainstate.png)
 
+
+
+
+## `brainstate`: JIT Compilation
 Brain dynamics is characterized by intrinsic memory-intensive computations. Most operations are element-wise computation and should be optimized by JIT compilation. Therefore, we are developing [brainstate](https://github.com/chaoming0625/brainstate) for a easy-to-use JIT transformation system for BDP.
 
 `jax`\'s JIT interface is hard to directly applied to highly complex brain dynamics. On the contrary, [brainstate](https://github.com/chaoming0625/brainstate) provides a `State`-based transformation system which is higy intuitive for compiling BDP models. [brainstate](https://github.com/chaoming0625/brainstate) now provides various commonly used transformation functions, including gradient computation, control flows, and JIT compilation.
@@ -72,6 +78,12 @@ It is the foundation for the new version of BDP ecosystem.
 Resources related to `brainstate`:
 
 -   The documentation for brainstate can be found in: <https://brainstate.readthedocs.io/>
+
+
+
+
+
+
 
 
 
@@ -90,6 +102,12 @@ Resources related to `braintaichi`:
 
 
 
+
+
+
+
+
+
 ## `brainscale`: Scalable Online Learning
 
 [brainscale](https://github.com/chaoming0625/brainscale) provides a scalable online learning framework for brain dynamics. It achieve $O(N)$ memory and computational complexity for SNN online computation, and $O(N^2)$ complexity for RNN computation.
@@ -97,6 +115,12 @@ Resources related to `braintaichi`:
 Resources related to `brainscale`:
 
 -   The documentation for braintaichi can be found in: <https://brainscale.readthedocs.io/>
+
+
+
+
+
+
 
 
 

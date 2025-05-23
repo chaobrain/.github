@@ -1,8 +1,6 @@
-The Laboratory for Large-Scale Brain Simulation, led by Prof. Chaoming Wang at [Guangdong Institute of Intelligence Science and Technology (GDIIST)](https://www.gdiist.cn/), is dedicated to advancing the field of largescale brain modeling.
+The Laboratory for Large-Scale Brain Simulation, led by [Prof. Chaoming Wang](https://www.gdiist.cn/en/research/team_detail/83) at [Guangdong Institute of Intelligence Science and Technology (GDIIST)](https://www.gdiist.cn/), is dedicated to advancing the field of largescale brain modeling.
 
-[//]: # (Our research emphasizes groundbreaking innovations in large-scale brain simulation, focusing on software, algorithms, and computational models.)
-
-[//]: # (Please refer to the homepage for more information: )
+Our research emphasizes groundbreaking innovations in large-scale brain simulation, focusing on software, algorithms, and computational models.
 
 
 ## Brain Modeling Software Ecosystem
@@ -36,7 +34,7 @@ For the details of this ecosystem, please see: https://brainmodeling.readthedocs
 
 For legacy project and framework for differentiable brain simulation, please see [BrainPy](https://github.com/brainpy/BrainPy). 
 
-We welcome contributions from the community, so if you have an idea for a new tool or library, please let us know! Please email us at: <chao.brain@qq.com>.
+
 
 
 

@@ -1,4 +1,4 @@
-The Laboratory for Large-Scale Brain Simulation, led by [Prof. Chaoming Wang](https://www.gdiist.cn/en/research/team_detail/83) at [Guangdong Institute of Intelligence Science and Technology (GDIIST)](https://www.gdiist.cn/), is dedicated to advancing the field of largescale brain modeling.
+The Laboratory of Large-Scale Brain Simulation is dedicated to advancing the field of largescale brain modeling.
 
 Our research emphasizes groundbreaking innovations in large-scale brain simulation, focusing on software, algorithms, and computational models.
 
@@ -15,8 +15,6 @@ pip install BrainX
 This ecosystem is a collection of tools, libraries, and frameworks that can be used to build brain dynamics models and applications.
 
 The ecosystem is designed to be modular, so you can use as much or as little of it as you need. Core components of the ecosystem include:
-
-- [BrainPy](https://github.com/brainpy/BrainPy): Legacy integrative simulation framework for brain dynamics.
 
 - [BrainUnit](https://github.com/chaobrain/brainunit): Comprehensive physical units and unit-aware mathematical system for brain dynamics.
 

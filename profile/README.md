@@ -16,6 +16,8 @@ This ecosystem is a collection of tools, libraries, and frameworks that can be u
 
 The ecosystem is designed to be modular, so you can use as much or as little of it as you need. Core components of the ecosystem include:
 
+- [BrainPy](https://github.com/brainpy/BrainPy): Legacy integrative simulation framework for brain dynamics.
+
 - [BrainUnit](https://github.com/chaobrain/brainunit): Comprehensive physical units and unit-aware mathematical system for brain dynamics.
 
 - [BrainCell](https://github.com/chaobrain/braincell): Intuitive, parallel, and efficient simulation for biologically detailed brain cell modeling. 
@@ -32,7 +34,6 @@ The ecosystem is designed to be modular, so you can use as much or as little of 
 
 For the details of this ecosystem, please see: https://brainmodeling.readthedocs.io/
 
-For legacy project and framework for differentiable brain simulation, please see [BrainPy](https://github.com/brainpy/BrainPy). 
 
 
 

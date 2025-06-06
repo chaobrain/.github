@@ -16,13 +16,15 @@ This ecosystem is a collection of tools, libraries, and frameworks that can be u
 
 The ecosystem is designed to be modular, so you can use as much or as little of it as you need. Core components of the ecosystem include:
 
+- [BrainPy](https://github.com/brainpy/BrainPy): Legacy integrative simulation framework for brain dynamics.
+
+- [BrainTaichi](https://github.com/chaobrain/braintaichi): The first-generation framework for customising event-driven operators, based on the Taichi Lang syntax and interacting with BrainPy.
+
 - [BrainUnit](https://github.com/chaobrain/brainunit): Comprehensive physical units and unit-aware mathematical system for brain dynamics.
 
 - [BrainCell](https://github.com/chaobrain/braincell): Intuitive, parallel, and efficient simulation for biologically detailed brain cell modeling. 
 
 - [BrainState](https://github.com/chaobrain/brainstate): State-based IR compilation for efficient simulation of brain models on CPUs, GPUs, and TPUs.
-
-- [BrainTaichi](https://github.com/chaobrain/braintaichi): The first-generation framework for customizing event-driven operators based on Taichi Lang syntax.
 
 - [BrainEvent](https://github.com/chaobrain/brainevent): Enabling event-driven computations in brain dynamics. 
 

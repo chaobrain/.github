@@ -28,7 +28,7 @@ The ecosystem is designed to be modular, so you can use as much or as little of 
 
 - [BrainEvent](https://github.com/chaobrain/brainevent): Enabling event-driven computations in brain dynamics. 
 
-- [BrainScale](https://github.com/chaobrain/brainscale): Enabling scalable online learning for brain dynamics: $O(N)$ complexity for SNNs, and $O(N^2)$ for RNN computations.
+- [BrainTrace](https://github.com/chaobrain/braintrace): Eligibility trace-based online learning for brain dynamics.
 
 - [BrainTools](https://github.com/chaobrain/braintools): Commonly used tools for brain dynamics programming, for example checkpointing. 
 
